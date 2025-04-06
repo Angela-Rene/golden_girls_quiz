@@ -19,7 +19,7 @@ elif answer1 == "D":
 else:
     print("Please choose 'A', 'B', 'C', or 'D'")
 
-print(score)
+#print(score)
 print("----------------------------------")
 
 answer2 = str(input("2. Which job would you prefer?\n  A- cooking delicious food\n  B- a grief counselor)\n  C- teaching children\n  D- assistant in an art museum\n")).upper()
@@ -34,7 +34,7 @@ elif answer2 == "D":
 else:
     print("Please choose 'A', 'B', 'C', or 'D'")
     
-print(score)
+#print(score)
 print("---------------------------------")
 
 answer3 = str(input("3. What is your favorite thing to drink?\n  A) milk\n  B) scotch\n  C) margarita\n  D) wine\n")).upper()
@@ -49,7 +49,7 @@ elif answer3 == "D":
 else:
     print("Please choose 'A', 'B', 'C', or 'D'")
 
-print(score)
+#print(score)
 print("---------------------------------")
 
 
@@ -65,7 +65,7 @@ elif answer4 == "D":
 else:
     print("Please choose 'A', 'B', 'C', or 'D'")
 
-print(score)
+#print(score)
 print("---------------------------------")
 
 answer5 = str(input("5. You're going out for errands, and maybe some lunch. What outfit do you wear?\n  A) Something down-home and practical\n  B) A tailored, pulled together look\n  C) Something soft, sexy, and flowing\n  D) Comfort over everything else\n")).upper()
@@ -80,7 +80,7 @@ elif answer5 == "D":
 else:
     print("Please choose 'A', 'B', 'C', or 'D'")
     
-print(score)
+#print(score)
 print("--------------------------------")
 
 answer6 = str(input("6. What color is that outfit?\n  A) Navy blue\n  B) Emerald green\n  C) Vibrant yellow\n  D) Classic black\n")).upper()
@@ -95,7 +95,7 @@ elif answer6 == "D":
 else:
     print("Please choose 'A', 'B', 'C', or 'D'")
     
-print(score)
+#print(score)
 print("----------------------------------")
 
 answer7 = str(input("7. And finally, your friend needs some advice about an important decision. You respond by:\n  A) Telling them a humurous story from your past, whether or not it is relevant.\n  B) Giving them practical advice, since you are obviously the voice of reason.\n  C) Telling an outrageous, made-up story to make sure your point gets accross.\n  D) Talking about your own problem that is clearly more important.\n")).upper()
@@ -110,7 +110,7 @@ elif answer7 == "D":
 else:
     print("Please choose 'A', 'B', 'C', or 'D'")
     
-print(score)
+#print(score)
 print("---------------------------------")
 
 
@@ -128,11 +128,7 @@ elif score >= 24:
 
 
 # the scoring:
-
 # total 24-28: Dorothy= D, 4pts each
-
 # total 18-23: Rose= R, 3pts each
-
 # total 12-17: Blanche= B, 2pts each
-
 # total 7-11: Sophia= S, 1pt each
