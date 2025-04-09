@@ -20,7 +20,7 @@ while True:
         print("Please choose 'A', 'B', 'C', or 'D'")
     print("----------------------------------")
 
-    answer2 = str(input("2. Which job would you prefer?\n  A- cooking delicious food\n  B- a grief counselor)\n  C- teaching children\n  D- assistant in an art museum\n")).upper()
+    answer2 = str(input("2. Which job would you prefer?\n  A- cooking delicious food\n  B- a grief counselor\n  C- teaching children\n  D- assistant in an art museum\n")).upper()
     if answer2 == "A":
         answer2 = "Sophia"
     elif answer2 == "B":
